@@ -1,0 +1,2 @@
+Name: shampoo Number: 123 Count: 1 Price: 5.99
+Name: tomato Number: 124 Wight: 1 Price: 0.89
